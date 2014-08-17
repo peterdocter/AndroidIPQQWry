@@ -23,7 +23,7 @@ https://github.com/hzy3774/AndroidUn7zip
 
 ####code:
 
-	public QQWryAnd(String datPath);    //construct
+    public QQWryAnd(String datPath);    //construct
     public String getVersion();         //version info
     public String getIpAddr(String ip);
     public String getIpRange(String ip);
@@ -41,4 +41,9 @@ https://github.com/hzy3774/AndroidUn7zip
 ###4.More about me
 * [ITeye blog: http://hzy3774.iteye.com/](http://hzy3774.iteye.com/)
 * [Baidu blog: http://hi.baidu.com/hzyws](http://hi.baidu.com/hzyws)
-* [Sina blog: http://weibo.com/hzy3774](http://weibo.com/hzy3774)
+* [Sina weibo: http://weibo.com/hzy3774](http://weibo.com/hzy3774)
+
+###5.Contact to me
+* QQ: [377406997](http://wpa.qq.com/msgrd?v=3&uin=377406997&site=qq&menu=yes)
+* Email: [hzy3774@qq.com](mailto:hzy3774@qq.com)
+
