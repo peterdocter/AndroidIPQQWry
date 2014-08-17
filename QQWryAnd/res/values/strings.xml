@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QQWryAnd</string>
+    <string name="input_ip_hint">请输入IP地址</string>
+    <string name="button_query">查询</string>
+    <string name="text_null"></string>
+    <string name="version">版本: </string>
+    <string name="count">条数: </string>
+    <string name="location">归属地: </string>
+    <string name="range">范围: </string>
+    <string name="title_tip">提示</string>
+    <string name="msg_load_wait">正在加载，请稍候</string>
+    <string name="exit">退出</string>
+    <string name="about">关于</string>
+    <string name="ip">IP</string>
+    <string name="invalid_ip">IP地址不合法</string>
+
+</resources>
